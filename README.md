@@ -1,4 +1,4 @@
-# 📄 README – LAB 18 : FireStorm
+#  LAB 18 : FireStorm
 
 ## 🎯 Objectif
 L’objectif de ce challenge est d’analyser une application Android afin de récupérer un flag en combinant :
